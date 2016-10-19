@@ -1,0 +1,35 @@
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 100px;
+
+}
+p{
+	margin-right: 200px;
+	margin-left: 200px;
+	color: white;
+}
+h2{
+	text-indent:100px;
+	color: white;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+    color: white;
+
+}
+body{
+	
+    background-image: url("Image/butterfly.jpg");
+    background-color: #cccccc;
+     background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+
+}
