@@ -1,4 +1,19 @@
 
+h1{
+	text-align: center;
+	color: white;
+	font-size: 100px;
+
+}
+p{
+	margin-right: 200px;
+	margin-left: 200px;
+	color: white;
+}
+h2{
+	text-indent:100px;
+	color: white;
+}
 img {
     display: block;
     margin: auto;
